@@ -1,0 +1,26 @@
+{
+  "projectId": "ai-team",
+  "projectName": "AI 개발팀 멀티에이전트 오케스트레이션 시스템",
+  "version": "1.0.0",
+  "status": "initialized",
+  "currentPhase": null,
+  "lastUpdated": null,
+  "activeTask": null,
+  "agents": {
+    "manager": { "status": "idle", "lastActivity": null },
+    "researcher": { "status": "idle", "lastActivity": null },
+    "architect": { "status": "idle", "lastActivity": null },
+    "designer": { "status": "idle", "lastActivity": null },
+    "backend-dev": { "status": "idle", "lastActivity": null },
+    "frontend-dev": { "status": "idle", "lastActivity": null },
+    "mobile-dev": { "status": "idle", "lastActivity": null },
+    "code-reviewer": { "status": "idle", "lastActivity": null },
+    "tester": { "status": "idle", "lastActivity": null },
+    "security-auditor": { "status": "idle", "lastActivity": null },
+    "devops": { "status": "idle", "lastActivity": null }
+  },
+  "completedTasks": [],
+  "pendingTasks": [],
+  "lastCommit": null,
+  "lastCommitTime": null
+}

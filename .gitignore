@@ -1,0 +1,49 @@
+# 상태 파일 (임시)
+state/agents/*.json
+state/checkpoints/*.json
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 로그
+*.log
+logs/
+
+# 의존성 (프로젝트에 따라 조정)
+node_modules/
+venv/
+__pycache__/
+*.pyc
+.env
+.env.local
+.env.*.local
+
+# 빌드 출력
+dist/
+build/
+*.egg-info/
+
+# 테스트
+coverage/
+.coverage
+htmlcov/
+.pytest_cache/
+.nyc_output/
+
+# 임시 파일
+*.tmp
+*.temp
+.cache/
+
+# 민감 정보
+*.pem
+*.key
+credentials.json
+secrets.json

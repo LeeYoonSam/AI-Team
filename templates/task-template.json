@@ -1,0 +1,23 @@
+{
+  "taskId": "task-{id}",
+  "title": "{작업 제목}",
+  "description": "{작업 상세 설명}",
+  "assignedAgent": "{담당 에이전트}",
+  "status": "pending",
+  "priority": "medium",
+  "dependencies": [],
+  "inputs": {
+    "requirements": "{요구사항}",
+    "context": "{컨텍스트}",
+    "references": []
+  },
+  "expectedOutputs": [],
+  "createdAt": "{생성 시간}",
+  "startedAt": null,
+  "completedAt": null,
+  "metadata": {
+    "phase": "planning",
+    "tags": [],
+    "estimatedEffort": "medium"
+  }
+}
