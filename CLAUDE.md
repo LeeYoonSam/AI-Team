@@ -122,9 +122,10 @@ templates/            # 템플릿
 
 ## 문서 참조
 
+- [시작 가이드](docs/getting-started.md)
+- [실제 프로젝트 적용 가이드](docs/practical-guide.md) ⭐
 - [시스템 아키텍처](docs/architecture.md)
 - [에이전트 정의](docs/agents.md)
 - [워크플로우](docs/workflows.md)
 - [상태 관리](docs/state-management.md)
 - [자동화 기능](docs/automation.md)
-- [시작 가이드](docs/getting-started.md)
